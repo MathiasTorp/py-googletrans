@@ -5,3 +5,4 @@ from pytest import fixture
 def translator():
     from googletrans import Translator
     return Translator()
+ 
